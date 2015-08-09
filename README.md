@@ -1,8 +1,7 @@
 # centerThis.js
 
-a simple jQuery plugin to Center an element in its parent,  a super simple [demo can be found here](http://danieltamkin.github.io/centerThis.js/).
+a simple jQuery plugin to Center an element to its parent, _or_ the browser,  a super simple [demo can be found here](http://danieltamkin.github.io/centerThis.js/).
 
-_or_ Center an element to the browser. Good for Heros.
 #### Center an element in its parent:
 `$("section.yourElement").centerThis();`
 #### Center an element in the browser:
