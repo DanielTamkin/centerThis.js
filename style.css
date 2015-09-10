@@ -4,11 +4,18 @@ body{
 header.hero{
   height:100%;
   width:100%;
-  background:#222;
+  background:#4672a1;
   color:#fff;
   text-align:center;
 }
 header.hero h1{
   font-family: 'Lato', sans;
   font-size:4.1em;
+}
+header.hero .center{
+  padding:1.1em;
+  box-sizing:border-box;
+  background:#fff;
+  box-shadow: 9px 6px 2px #375e88;
+  color:#222;
 }
