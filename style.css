@@ -1,0 +1,14 @@
+body{
+  font-family: 'Work Sans', sans-serif;
+}
+header.hero{
+  height:100%;
+  width:100%;
+  background:#222;
+  color:#fff;
+  text-align:center;
+}
+header.hero h1{
+  font-family: 'Lato', sans;
+  font-size:4.1em;
+}
