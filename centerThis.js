@@ -48,7 +48,6 @@
 					parentHeight		= null,
 					browserHeight 	= null;
 			if($data.browser === true){
-				console.log("asdf");
 				browserHeight = $(window).height();
 				elementHeight	= $this.outerHeight();
 				elementTop	 	= (browserHeight/2) - (elementHeight/2);
